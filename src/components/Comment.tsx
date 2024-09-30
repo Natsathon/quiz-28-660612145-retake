@@ -23,6 +23,7 @@ export default function Comment({
             <br />
             <span>{commentTitle}</span>
             <div className="d-flex align-items-center gap-1">
+              
             </div>
           </div>
         </div>
