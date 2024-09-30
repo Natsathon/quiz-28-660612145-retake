@@ -13,14 +13,3 @@ export default function PostOwner(props: any) {
         />
         <span className="fw-semibold fs-5">{props.user}</span>
       </div>
-
-      <span>Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #261207</span>
-
-      <div className="d-flex align-items-center gap-1">
-        <img src="/like.svg" width={20} />
-        <span className="text-muted">100 คน</span>
-      </div>
-      <hr className="m-0 border" />
-    </div>
-  );
-}
