@@ -23,8 +23,6 @@ export default function Comment({
             <br />
             <span>{commentTitle}</span>
             <div className="d-flex align-items-center gap-1">
-              {likes > 0 && <img src="/like.svg" width={20}></img>}
-              {likes > 0 && <span className="text-muted">{likes} คน</span>}
             </div>
           </div>
         </div>

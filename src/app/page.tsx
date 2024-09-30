@@ -18,7 +18,7 @@ export default function Home() {
         className="mx-auto p-3 rounded rounded-3 shadow-sm bg-white"
       >
         {/* Post Owner Example*/}
-        <PostOwnner user="Natsaton Phanamphan 660612145" picture="/profileImages/photo.jpg/"/>
+        <PostOwner user="Natsaton Phanamphan 660612145" picture="/profileImages/photo.jpg" />
 
         {/* Comment Example */}
         <Comment ImagePath="/profileImages/lisa.jpg" username="Lisa" commentTitle="จริงค่าาาาา" likes="555" replies=""/>
